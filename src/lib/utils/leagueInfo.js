@@ -1,7 +1,7 @@
 /*   STEP 1   */
 export const leagueID = "996594582366425088"; // your league ID
 export const leagueName = "The J.M. Carson Wentz First Overall Memorial League"; // your league name
-export const dues = 0; // (optional) used in template constitution page
+export const dues = null; // (optional) used in template constitution page
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
