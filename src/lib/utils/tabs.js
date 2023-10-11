@@ -16,11 +16,11 @@ export const tabs = [
         label: 'Trades & Waivers',
         dest: '/transactions',
     },
-    {
-        icon: 'article',
-        label: 'Blog',
-        dest: '/blog',
-    },
+    // {
+    //     icon: 'article',
+    //     label: 'Blog',
+    //     dest: '/blog',
+    // },
     {
         icon: 'view_comfy',
         label: 'League Info',
@@ -61,11 +61,11 @@ export const tabs = [
                 label: 'Records',
                 dest: '/records',
             },
-            {
-                icon: 'history_edu',
-                label: 'Constitution',
-                dest: '/constitution',
-            },
+            // {
+            //     icon: 'history_edu',
+            //     label: 'Constitution',
+            //     dest: '/constitution',
+            // },
             {
                 icon: 'sports_football',
                 label: 'Go to Sleeper',
